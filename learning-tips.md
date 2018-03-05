@@ -5,3 +5,11 @@ This article records some small tips.
 brew install tree
 ```
 
+2. git pull : 
+    **fatal: refusing to merge unrelated histories**
+
+
+```bash
+git pull origin master --allow-unrelated-histories
+```
+
