@@ -11,3 +11,8 @@ brew install tree
 git pull origin master --allow-unrelated-histories
 ```
 
+3. git add: 
+```bash
+git remote add origin your_remote_repository
+git push -u origin master
+```
