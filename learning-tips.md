@@ -4,6 +4,7 @@ This article records some small tips.
 ```bash
 brew install tree
 ```
+![tree](/assets/Screen Shot 2018-03-05 at 16.39.17.png)
 
 2. git pull : 
     **fatal: refusing to merge unrelated histories**
