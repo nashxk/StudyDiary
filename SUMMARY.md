@@ -4,4 +4,5 @@
 * [Learning-Gitbook](learning-gitbook.md)
 * [Learning-Tips](learning-tips.md)
 * [Learning-Machine Learning](learning-machine-learning.md)
+* [Learning-MiniProgram](learning-miniprogram.md)
 
