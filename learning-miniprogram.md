@@ -32,6 +32,12 @@
   pages | window | tabBar | networkTimeout | debug 
   --- | --- | --- | --- | --- 
   设置页面路径 | 设置默认页面的窗口表现 | 设置底部tab的表现 | 设置网络超时时间 | 设置是否开启debug模式
+  
+  - pages
+  - window
+  - tabBar
+  - networkTimeout
+  - debug 
 
 - page.json: 页面的json文件，只能设置window的相关配置项
 - project.config.json: 
