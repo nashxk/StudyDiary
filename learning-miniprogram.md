@@ -37,5 +37,12 @@
 - project.config.json: 
 
 ### 2. WXML模板
+
+  [WXML](https://mp.weixin.qq.com/debug/wxadoc/dev/framework/view/wxml/)
+  充当HTML的角色
+
 ### 3. WXSS样式
+  
+  [WXSS](https://mp.weixin.qq.com/debug/wxadoc/dev/framework/view/wxss.html)
+  充当CSS
 ### 4. JS逻辑交互
